@@ -32,7 +32,7 @@ export const Projects = () => {
       title: "Website Portfolio",
       description: "How did I make this? I used React.js and CSS",
       imgUrl: webImg,
-      link: "https://www.youtube.com/",
+      link: "https://github.com/dvdkang/dvdkang.github.io",
     },
   ];
   const projects3 = [
