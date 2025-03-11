@@ -1,0 +1,39 @@
+/************ Experience Css ************/
+.experience {
+  padding: 80px 0 60px 0;
+  position: relative;
+  background-color: #f8f9fa;
+}
+
+.experience h2 {
+  text-align: center;
+  color: #f8f9fa;
+  margin-bottom: 60px;
+}
+
+.timeline {
+  border-radius: 64px;
+  padding: 60px 50px;
+  margin: -60px;
+  background: #4277d9;
+}
+
+.timeLineItem {
+  color: #f8f9fa;
+  margin-bottom: 50px;
+}
+
+.timeLineItem i {
+  color: #f8f9fa;
+  margin-right: 10px;
+}
+
+.timeLineItem h4 {
+  margin-top: 10px;
+}
+
+.experience h2 {
+  font-size: 45px;
+  font-weight: 700;
+  text-align: center;
+}

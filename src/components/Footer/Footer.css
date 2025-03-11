@@ -1,0 +1,11 @@
+.footer {
+  padding: 50px 0 50px 0;
+  background-image: None; /* Comeback to this later */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.footer img {
+  width: 20%;
+}
