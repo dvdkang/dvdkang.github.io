@@ -7,6 +7,7 @@ import warImg from "../../assets/img/warGame.png";
 import eventImg from "../../assets/img/eventAPI.png";
 import webImg from "../../assets/img/website-img.png";
 import workInProgImg from "../../assets/img/work-in-progress.png";
+import jobScrapeImg from "../../assests/img/jobScrape.png";
 
 export const Projects = () => {
   const projects2 = [
@@ -17,10 +18,10 @@ export const Projects = () => {
       link: "https://github.com/dvdkang/Event-Management-API",
     },
     {
-      title: "Motivify App",
-      description: "Daily Tracker App using Swift/SwiftUI",
-      imgUrl: workInProgImg,
-      link: "",
+      title: "Job Scraper",
+      description: "Scraping Jobs off LinkedIn",
+      imgUrl: jobScrapeImg,
+      link: "https://github.com/dvdkang/Job-Scraper",
     },
     {
       title: "War Card Game",
